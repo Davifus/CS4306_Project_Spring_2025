@@ -3,6 +3,9 @@ Optimization of Dijkstra's Algorithm
 
 
 Colin Creech
+
 Tham Do
+
 Geonhyeong Kim
+
 Rutu Shukla
